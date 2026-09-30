@@ -1,0 +1,19 @@
+D:\Dự án Vision 3D\Test SDK\Manhdz1\Manhdz1\obj\Debug\Manhdz1.csproj.AssemblyReference.cache
+D:\Dự án Vision 3D\Test SDK\Manhdz1\Manhdz1\obj\Debug\Manhdz.Form1.resources
+D:\Dự án Vision 3D\Test SDK\Manhdz1\Manhdz1\obj\Debug\Manhdz1.Properties.Resources.resources
+D:\Dự án Vision 3D\Test SDK\Manhdz1\Manhdz1\obj\Debug\Manhdz1.csproj.GenerateResource.cache
+D:\Dự án Vision 3D\Test SDK\Manhdz1\Manhdz1\obj\Debug\Manhdz1.csproj.CoreCompileInputs.cache
+D:\ProjectVison3D\TestSDK\Manhdz1\Manhdz1\bin\Debug\Manhdz1.exe.config
+D:\ProjectVison3D\TestSDK\Manhdz1\Manhdz1\bin\Debug\Manhdz1.exe
+D:\ProjectVison3D\TestSDK\Manhdz1\Manhdz1\bin\Debug\Manhdz1.pdb
+D:\ProjectVison3D\TestSDK\Manhdz1\Manhdz1\bin\Debug\xCoreSDK_cli.dll
+D:\ProjectVison3D\TestSDK\Manhdz1\Manhdz1\bin\Debug\xCoreSDK_cli.xml
+D:\ProjectVison3D\TestSDK\Manhdz1\Manhdz1\obj\Debug\Manhdz1.csproj.AssemblyReference.cache
+D:\ProjectVison3D\TestSDK\Manhdz1\Manhdz1\obj\Debug\Manhdz1.Form1.resources
+D:\ProjectVison3D\TestSDK\Manhdz1\Manhdz1\obj\Debug\Manhdz1.Form2.resources
+D:\ProjectVison3D\TestSDK\Manhdz1\Manhdz1\obj\Debug\Manhdz1.Properties.Resources.resources
+D:\ProjectVison3D\TestSDK\Manhdz1\Manhdz1\obj\Debug\Manhdz1.csproj.GenerateResource.cache
+D:\ProjectVison3D\TestSDK\Manhdz1\Manhdz1\obj\Debug\Manhdz1.csproj.CoreCompileInputs.cache
+D:\ProjectVison3D\TestSDK\Manhdz1\Manhdz1\obj\Debug\Manhdz1.csproj.Up2Date
+D:\ProjectVison3D\TestSDK\Manhdz1\Manhdz1\obj\Debug\Manhdz1.exe
+D:\ProjectVison3D\TestSDK\Manhdz1\Manhdz1\obj\Debug\Manhdz1.pdb

@@ -1,0 +1,222 @@
+[I|2026-09-29 10:02:50.388 26216] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-29 10:02:50.453 26216] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-29 10:08:33.759 24524] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-29 10:08:33.886 15204] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-29 10:08:33.887 15204] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-29 10:08:36.974 15204] uid: 8e47f02f-6de2 | enableDrag end, rt:false (0)
+[I|2026-09-29 10:09:07.095 15204] uid: 8e47f02f-6de2 | enableDrag end, rt:false (0)
+[I|2026-09-29 10:09:12.281 15204] uid: 8e47f02f-6de2 | enableDrag end, rt:false (0)
+[I|2026-09-29 10:13:46.047 24524] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-29 10:13:46.069 15204] uid: 8e47f02f-6de2 | disconnectFromRobot end (0)
+[I|2026-09-29 10:48:03.122 21856] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-29 10:48:03.240 18888] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-29 10:48:03.240 18888] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-29 10:48:06.682 18888] uid: 8e47f02f-6de2 | enableDrag end, rt:false (0)
+[I|2026-09-29 10:48:12.600 18888] uid: 8e47f02f-6de2 | enableDrag end, rt:false (0)
+[I|2026-09-29 10:48:35.998 21856] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-29 10:48:36.024 18888] uid: 8e47f02f-6de2 | disconnectFromRobot end (0)
+[I|2026-09-29 13:49:01.233 28624] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-29 13:49:01.353 11920] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-29 13:49:01.353 11920] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-29 13:49:03.729 11920] uid: 8e47f02f-6de2 | enableDrag end, rt:false (0)
+[I|2026-09-29 13:49:48.422 28624] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-29 13:49:48.446 11920] uid: 8e47f02f-6de2 | disconnectFromRobot end (0)
+[I|2026-09-29 14:06:27.179 26684] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-29 14:06:27.284 25276] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-29 14:06:27.284 25276] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-29 14:06:35.569 25276] uid: 8e47f02f-6de2 | enableDrag end, rt:false (0)
+[I|2026-09-29 14:16:06.257 26684] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-29 14:16:06.275 25276] uid: 8e47f02f-6de2 | disconnectFromRobot end (0)
+[I|2026-09-29 14:17:18.833 8356] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-29 14:17:18.940 1092] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-29 14:17:18.940 1092] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-29 14:21:15.616 8356] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-29 14:21:15.641 1092] uid: 8e47f02f-6de2 | disconnectFromRobot end (0)
+[I|2026-09-29 14:25:09.728 17336] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-29 14:25:09.838 15804] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-29 14:25:09.838 15804] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-29 14:25:13.685 15804] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 14:25:13.686 15804] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 14:25:14.192 15804] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (-514)
+[I|2026-09-29 14:25:24.490 15804] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 14:25:24.492 15804] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 14:25:25.000 15804] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (-514)
+[I|2026-09-29 14:25:34.772 17336] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-29 14:25:34.799 15804] uid: 8e47f02f-6de2 | disconnectFromRobot end (0)
+[I|2026-09-29 14:28:01.910 23464] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-29 14:28:02.022 26372] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-29 14:28:02.022 26372] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-29 14:28:03.989 26372] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 14:28:03.991 26372] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 14:28:04.497 26372] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (-514)
+[I|2026-09-29 14:30:52.198 23464] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-29 14:30:52.228 26372] uid: 8e47f02f-6de2 | disconnectFromRobot end (0)
+[I|2026-09-29 14:34:12.295 17168] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-29 14:34:12.415 27132] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-29 14:34:12.415 27132] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-29 14:34:18.095 27132] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 14:34:18.096 27132] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 14:34:18.603 27132] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (-514)
+[I|2026-09-29 14:35:22.921 17168] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-29 14:35:22.947 27132] uid: 8e47f02f-6de2 | disconnectFromRobot end (0)
+[I|2026-09-29 14:40:04.584 13560] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-29 14:40:04.690 7708] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-29 14:40:04.690 7708] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-29 14:40:07.839 7708] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 14:40:07.841 7708] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 14:40:08.347 7708] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (-514)
+[I|2026-09-29 14:40:42.573 13560] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-29 14:40:42.597 7708] uid: 8e47f02f-6de2 | disconnectFromRobot end (0)
+[I|2026-09-29 14:41:07.202 26872] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-29 14:41:07.312 4328] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-29 14:41:07.313 4328] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-29 14:41:11.815 4328] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 14:41:11.817 4328] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 14:41:11.861 4328] uid: 8e47f02f-6de2 | disableCollisionDetection end (0)
+[I|2026-09-29 14:41:12.415 4328] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (-514)
+[I|2026-09-29 14:41:55.003 4328] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 14:41:55.004 4328] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 14:41:55.051 4328] uid: 8e47f02f-6de2 | disableCollisionDetection end (0)
+[I|2026-09-29 14:41:55.602 4328] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (-514)
+[I|2026-09-29 14:42:45.843 26872] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-29 14:42:45.867 4328] uid: 8e47f02f-6de2 | disconnectFromRobot end (0)
+[I|2026-09-29 14:42:50.942 15800] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-29 14:42:51.049 17088] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-29 14:42:51.049 17088] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-29 14:42:55.887 17088] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-29 14:42:55.888 17088] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 14:42:55.933 17088] uid: 8e47f02f-6de2 | disableCollisionDetection end (0)
+[I|2026-09-29 14:42:56.196 17088] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-29 14:42:56.244 17088] uid: 8e47f02f-6de2 | enableCollisionDetection end, sensitivity: [1, 1, 1, 1, 1, 1], behaviour: stop1, fallback: 0.01 (0)
+[I|2026-09-29 14:45:59.824 15800] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-29 14:45:59.843 17088] uid: 8e47f02f-6de2 | disconnectFromRobot end (0)
+[I|2026-09-29 14:53:07.207 14820] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-29 14:53:07.314 26704] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-29 14:53:07.314 26704] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-29 14:53:09.846 26704] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-29 14:53:09.847 26704] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 14:53:09.892 26704] uid: 8e47f02f-6de2 | disableCollisionDetection end (0)
+[I|2026-09-29 14:53:09.984 26704] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-29 14:53:10.031 26704] uid: 8e47f02f-6de2 | enableCollisionDetection end, sensitivity: [1, 1, 1, 1, 1, 1], behaviour: stop1, fallback: 0.01 (0)
+[I|2026-09-29 14:53:13.659 26704] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-29 14:53:13.659 26704] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 14:53:13.704 26704] uid: 8e47f02f-6de2 | disableCollisionDetection end (0)
+[I|2026-09-29 14:53:13.981 26704] uid: 8e47f02f-6de2 | setPowerState end, switch motor false (0)
+[I|2026-09-29 14:53:14.032 26704] uid: 8e47f02f-6de2 | enableCollisionDetection end, sensitivity: [1, 1, 1, 1, 1, 1], behaviour: stop1, fallback: 0.01 (0)
+[I|2026-09-29 14:53:17.428 26704] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-29 14:53:17.428 26704] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 14:53:17.473 26704] uid: 8e47f02f-6de2 | disableCollisionDetection end (0)
+[I|2026-09-29 14:53:17.736 26704] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-29 14:53:17.782 26704] uid: 8e47f02f-6de2 | enableCollisionDetection end, sensitivity: [1, 1, 1, 1, 1, 1], behaviour: stop1, fallback: 0.01 (0)
+[I|2026-09-29 14:53:20.398 26704] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-29 14:53:20.399 26704] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 14:53:20.445 26704] uid: 8e47f02f-6de2 | disableCollisionDetection end (0)
+[I|2026-09-29 14:53:20.722 26704] uid: 8e47f02f-6de2 | setPowerState end, switch motor false (0)
+[I|2026-09-29 14:53:20.771 26704] uid: 8e47f02f-6de2 | enableCollisionDetection end, sensitivity: [1, 1, 1, 1, 1, 1], behaviour: stop1, fallback: 0.01 (0)
+[I|2026-09-29 14:53:23.352 26704] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-29 14:53:23.353 26704] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 14:53:23.399 26704] uid: 8e47f02f-6de2 | disableCollisionDetection end (0)
+[I|2026-09-29 14:53:23.661 26704] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-29 14:53:23.706 26704] uid: 8e47f02f-6de2 | enableCollisionDetection end, sensitivity: [1, 1, 1, 1, 1, 1], behaviour: stop1, fallback: 0.01 (0)
+[I|2026-09-29 14:53:25.519 26704] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-29 14:53:25.520 26704] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 14:53:25.566 26704] uid: 8e47f02f-6de2 | disableCollisionDetection end (0)
+[I|2026-09-29 14:53:25.842 26704] uid: 8e47f02f-6de2 | setPowerState end, switch motor false (0)
+[I|2026-09-29 14:53:25.888 26704] uid: 8e47f02f-6de2 | enableCollisionDetection end, sensitivity: [1, 1, 1, 1, 1, 1], behaviour: stop1, fallback: 0.01 (0)
+[I|2026-09-29 14:57:34.985 26704] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-29 14:57:34.986 26704] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 14:57:35.031 26704] uid: 8e47f02f-6de2 | disableCollisionDetection end (0)
+[I|2026-09-29 14:57:35.295 26704] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-29 14:57:35.342 26704] uid: 8e47f02f-6de2 | enableCollisionDetection end, sensitivity: [1, 1, 1, 1, 1, 1], behaviour: stop1, fallback: 0.01 (0)
+[I|2026-09-29 15:00:48.557 14820] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-29 15:00:48.575 26704] uid: 8e47f02f-6de2 | disconnectFromRobot end (0)
+[I|2026-09-29 15:09:00.831 25888] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-29 15:09:00.936 17304] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-29 15:09:00.936 17304] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-29 15:10:10.208 17304] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-29 15:10:10.211 17304] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 15:10:10.255 17304] uid: 8e47f02f-6de2 | disableCollisionDetection end (0)
+[I|2026-09-29 15:10:10.518 17304] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-29 15:10:10.577 17304] uid: 8e47f02f-6de2 | enableCollisionDetection end, sensitivity: [1, 1, 1, 1, 1, 1], behaviour: stop1, fallback: 0.01 (0)
+[I|2026-09-29 15:10:14.649 17304] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-29 15:10:14.650 17304] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 15:10:14.696 17304] uid: 8e47f02f-6de2 | disableCollisionDetection end (0)
+[I|2026-09-29 15:10:14.973 17304] uid: 8e47f02f-6de2 | setPowerState end, switch motor false (0)
+[I|2026-09-29 15:10:15.021 17304] uid: 8e47f02f-6de2 | enableCollisionDetection end, sensitivity: [1, 1, 1, 1, 1, 1], behaviour: stop1, fallback: 0.01 (0)
+[I|2026-09-29 15:11:13.048 25888] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-29 15:11:13.077 17304] uid: 8e47f02f-6de2 | disconnectFromRobot end (0)
+[I|2026-09-29 15:11:19.324 9512] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-29 15:11:19.437 4256] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-29 15:11:19.437 4256] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-29 15:13:22.949 9512] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-29 15:13:22.966 4256] uid: 8e47f02f-6de2 | disconnectFromRobot end (0)
+[I|2026-09-29 15:15:38.103 17224] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-29 15:15:38.226 28068] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-29 15:15:38.226 28068] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-29 15:15:51.222 28068] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 15:15:51.224 28068] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 15:15:51.283 28068] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-29 15:15:51.329 28068] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 0, direction: true (0)
+[I|2026-09-29 15:16:01.735 28068] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 15:16:01.736 28068] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 15:16:02.243 28068] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (-514)
+[I|2026-09-29 15:16:02.293 28068] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 0, direction: true (-17)
+[I|2026-09-29 15:16:11.847 28068] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 15:16:11.849 28068] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 15:16:11.893 28068] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-29 15:16:11.940 28068] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 0, direction: true (0)
+[I|2026-09-29 15:20:48.584 17224] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-29 15:20:48.604 28068] uid: 8e47f02f-6de2 | disconnectFromRobot end (0)
+[I|2026-09-29 15:21:24.280 21556] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-29 15:21:24.382 18932] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-29 15:21:24.382 18932] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-29 15:21:42.901 18932] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 15:21:42.904 18932] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 15:21:42.960 18932] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-29 15:21:43.007 18932] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 0, direction: true (0)
+[I|2026-09-29 15:21:49.933 21556] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-29 15:21:49.957 18932] uid: 8e47f02f-6de2 | disconnectFromRobot end (0)
+[I|2026-09-29 15:26:19.019 20932] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-29 15:26:19.130 16408] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-29 15:26:19.130 16408] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-29 15:26:26.198 16408] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 15:26:26.201 16408] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 15:26:26.260 16408] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-29 15:26:26.307 16408] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 0, direction: false (0)
+[I|2026-09-29 15:26:26.627 16408] uid: 8e47f02f-6de2 | stop jogging
+[I|2026-09-29 15:26:26.678 16408] uid: 8e47f02f-6de2 | stop end (0)
+[I|2026-09-29 15:26:29.918 16408] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 15:26:29.919 16408] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 15:26:29.963 16408] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-29 15:26:30.008 16408] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 0, direction: false (0)
+[I|2026-09-29 15:26:30.832 16408] uid: 8e47f02f-6de2 | stop jogging
+[I|2026-09-29 15:26:30.882 16408] uid: 8e47f02f-6de2 | stop end (0)
+[I|2026-09-29 15:26:37.275 16408] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 15:26:37.276 16408] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 15:26:37.321 16408] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-29 15:26:37.366 16408] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 0, direction: false (0)
+[I|2026-09-29 15:26:44.414 16408] uid: 8e47f02f-6de2 | stop jogging
+[I|2026-09-29 15:26:44.461 16408] uid: 8e47f02f-6de2 | stop end (0)
+[I|2026-09-29 15:26:45.388 16408] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 15:26:45.391 16408] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 15:26:45.436 16408] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-29 15:26:45.482 16408] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 0, direction: true (0)
+[I|2026-09-29 15:29:13.758 20932] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-29 15:29:13.778 16408] uid: 8e47f02f-6de2 | disconnectFromRobot end (0)
+[I|2026-09-29 15:36:27.622 28000] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-29 15:36:27.722 11436] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-29 15:36:27.722 11436] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-29 15:36:30.359 11436] uid: 8e47f02f-6de2 | enableDrag end, rt:false (0)
+[I|2026-09-29 15:36:33.393 11436] uid: 8e47f02f-6de2 | disableDrag end, rt:false (0)
+[I|2026-09-29 15:36:38.519 11436] uid: 8e47f02f-6de2 | enableDrag end, rt:false (0)
+[I|2026-09-29 15:36:51.205 11436] uid: 8e47f02f-6de2 | disableDrag end, rt:false (0)
+[I|2026-09-29 15:36:58.194 11436] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 15:36:58.196 11436] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 15:36:58.703 11436] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (-514)
+[I|2026-09-29 15:36:58.754 11436] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 0, direction: true (-17)
+[I|2026-09-29 15:37:10.231 11436] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-29 15:37:10.233 11436] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-29 15:37:10.279 11436] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-29 15:37:10.326 11436] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 0, direction: true (0)
+[I|2026-09-29 15:38:44.681 28000] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-29 15:38:44.703 11436] uid: 8e47f02f-6de2 | disconnectFromRobot end (0)

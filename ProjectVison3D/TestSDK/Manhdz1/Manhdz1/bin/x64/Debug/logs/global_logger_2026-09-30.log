@@ -1,0 +1,380 @@
+[I|2026-09-30 09:55:54.273 19616] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-30 09:55:54.392 3504] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-30 09:55:54.392 3504] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-30 09:55:57.841 3504] uid: 8e47f02f-6de2 | enableDrag end, rt:false (0)
+[I|2026-09-30 09:56:01.177 3504] uid: 8e47f02f-6de2 | disableDrag end, rt:false (0)
+[I|2026-09-30 09:56:10.067 3504] uid: 8e47f02f-6de2 | setTeachPendantMode, enable: false (0)
+[I|2026-09-30 09:56:19.553 3504] uid: 8e47f02f-6de2 | setTeachPendantMode, enable: true (0)
+[I|2026-09-30 09:56:26.272 3504] uid: 8e47f02f-6de2 | setTeachPendantMode, enable: false (0)
+[I|2026-09-30 09:56:31.416 3504] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 09:56:31.418 3504] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 09:56:31.463 3504] uid: 8e47f02f-6de2 | disableCollisionDetection end (0)
+[I|2026-09-30 09:56:31.729 3504] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 09:56:31.790 3504] uid: 8e47f02f-6de2 | enableCollisionDetection end, sensitivity: [1, 1, 1, 1, 1, 1], behaviour: stop1, fallback: 0.01 (0)
+[I|2026-09-30 09:56:37.464 3504] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-30 09:56:37.465 3504] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 09:56:37.510 3504] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 09:56:37.559 3504] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 0, direction: false (0)
+[I|2026-09-30 09:56:37.922 3504] uid: 8e47f02f-6de2 | stop jogging
+[I|2026-09-30 09:56:37.982 3504] uid: 8e47f02f-6de2 | stop end (0)
+[I|2026-09-30 09:56:40.220 3504] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-30 09:56:40.221 3504] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 09:56:40.569 3504] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 09:56:40.623 3504] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 0, direction: false (0)
+[I|2026-09-30 09:56:43.667 3504] uid: 8e47f02f-6de2 | stop jogging
+[I|2026-09-30 09:56:43.721 3504] uid: 8e47f02f-6de2 | stop end (0)
+[I|2026-09-30 09:56:52.641 3504] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-30 09:56:52.643 3504] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 09:56:52.689 3504] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 09:56:52.740 3504] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 0, direction: true (0)
+[I|2026-09-30 09:56:58.032 3504] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (-20)
+[I|2026-09-30 09:56:58.033 3504] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 09:56:58.080 3504] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (-18)
+[I|2026-09-30 09:56:58.126 3504] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 0, direction: false (-20)
+[I|2026-09-30 09:56:59.258 3504] uid: 8e47f02f-6de2 | stop jogging
+[I|2026-09-30 09:56:59.305 3504] uid: 8e47f02f-6de2 | stop end (0)
+[I|2026-09-30 09:57:01.183 3504] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-30 09:57:01.184 3504] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 09:57:01.230 3504] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 09:57:01.287 3504] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 0, direction: false (0)
+[I|2026-09-30 09:57:05.764 3504] uid: 8e47f02f-6de2 | stop jogging
+[I|2026-09-30 09:57:05.811 3504] uid: 8e47f02f-6de2 | stop end (0)
+[I|2026-09-30 09:57:18.153 3504] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-30 09:57:18.154 3504] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 09:57:18.205 3504] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 09:57:18.252 3504] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 0, direction: true (0)
+[I|2026-09-30 09:57:22.499 3504] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (-20)
+[I|2026-09-30 09:57:22.500 3504] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 09:57:22.547 3504] uid: 8e47f02f-6de2 | disableCollisionDetection end (0)
+[I|2026-09-30 09:57:22.655 3504] uid: 8e47f02f-6de2 | setPowerState end, switch motor false (-18)
+[I|2026-09-30 09:57:27.450 3504] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (-20)
+[I|2026-09-30 09:57:27.451 3504] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 09:57:27.498 3504] uid: 8e47f02f-6de2 | disableCollisionDetection end (0)
+[I|2026-09-30 09:57:27.597 3504] uid: 8e47f02f-6de2 | setPowerState end, switch motor false (-18)
+[I|2026-09-30 09:57:31.173 3504] uid: 8e47f02f-6de2 | setTeachPendantMode, enable: true (-20)
+[I|2026-09-30 09:57:35.185 3504] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 09:57:35.187 3504] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 09:57:35.236 3504] uid: 8e47f02f-6de2 | disableCollisionDetection end (0)
+[I|2026-09-30 09:57:35.334 3504] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (-18)
+[I|2026-09-30 09:57:38.913 3504] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 09:57:38.913 3504] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 09:57:38.960 3504] uid: 8e47f02f-6de2 | disableCollisionDetection end (0)
+[I|2026-09-30 09:57:39.051 3504] uid: 8e47f02f-6de2 | setPowerState end, switch motor false (0)
+[I|2026-09-30 09:57:39.098 3504] uid: 8e47f02f-6de2 | enableCollisionDetection end, sensitivity: [1, 1, 1, 1, 1, 1], behaviour: stop1, fallback: 0.01 (0)
+[I|2026-09-30 09:57:47.651 3504] uid: 8e47f02f-6de2 | setTeachPendantMode, enable: true (0)
+[I|2026-09-30 10:01:26.982 3504] uid: 8e47f02f-6de2 | setTeachPendantMode, enable: false (0)
+[I|2026-09-30 10:01:32.613 3504] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-30 10:01:32.615 3504] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 10:01:32.985 3504] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 10:01:33.033 3504] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 0, direction: false (0)
+[I|2026-09-30 10:01:36.539 3504] uid: 8e47f02f-6de2 | stop jogging
+[I|2026-09-30 10:01:36.596 3504] uid: 8e47f02f-6de2 | stop end (0)
+[I|2026-09-30 10:01:40.773 3504] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-30 10:01:40.775 3504] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 10:01:40.830 3504] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 10:01:40.877 3504] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 0, direction: true (0)
+[I|2026-09-30 10:01:45.362 3504] uid: 8e47f02f-6de2 | setTeachPendantMode, enable: true (-20)
+[I|2026-09-30 10:01:50.731 3504] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (-20)
+[I|2026-09-30 10:01:50.733 3504] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 10:01:50.777 3504] uid: 8e47f02f-6de2 | disableCollisionDetection end (0)
+[I|2026-09-30 10:01:50.872 3504] uid: 8e47f02f-6de2 | setPowerState end, switch motor false (-18)
+[I|2026-09-30 10:01:53.504 3504] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (-20)
+[I|2026-09-30 10:01:53.504 3504] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 10:01:53.552 3504] uid: 8e47f02f-6de2 | disableCollisionDetection end (0)
+[I|2026-09-30 10:01:53.648 3504] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (-18)
+[I|2026-09-30 10:01:55.490 3504] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 10:01:55.491 3504] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 10:01:55.537 3504] uid: 8e47f02f-6de2 | disableCollisionDetection end (0)
+[I|2026-09-30 10:01:55.633 3504] uid: 8e47f02f-6de2 | setPowerState end, switch motor false (-18)
+[I|2026-09-30 10:02:03.224 3504] uid: 8e47f02f-6de2 | setTeachPendantMode, enable: true (0)
+[I|2026-09-30 10:02:17.694 3504] uid: 8e47f02f-6de2 | disableDrag end, rt:false (0)
+[I|2026-09-30 10:06:36.690 19616] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-30 10:06:36.718 3504] uid: 8e47f02f-6de2 | disconnectFromRobot end (0)
+[I|2026-09-30 10:07:05.960 8524] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-30 10:07:06.060 3980] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-30 10:07:06.060 3980] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-30 10:08:03.083 3980] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-30 10:08:03.086 3980] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 10:08:03.138 3980] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 10:08:03.186 3980] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 0, direction: false (0)
+[I|2026-09-30 10:08:04.702 3980] uid: 8e47f02f-6de2 | stop jogging
+[I|2026-09-30 10:08:04.754 3980] uid: 8e47f02f-6de2 | stop end (0)
+[I|2026-09-30 10:09:04.912 8524] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-30 10:09:04.938 3980] uid: 8e47f02f-6de2 | disconnectFromRobot end (0)
+[I|2026-09-30 10:09:14.442 13464] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-30 10:09:14.554 11092] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-30 10:09:14.554 11092] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-30 10:09:27.731 11092] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-30 10:09:27.734 11092] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 10:09:27.778 11092] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 10:09:27.826 11092] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 0, direction: false (0)
+[I|2026-09-30 10:09:29.199 11092] uid: 8e47f02f-6de2 | stop jogging
+[I|2026-09-30 10:09:29.251 11092] uid: 8e47f02f-6de2 | stop end (0)
+[I|2026-09-30 10:09:59.436 13464] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-30 10:09:59.459 11092] uid: 8e47f02f-6de2 | disconnectFromRobot end (0)
+[I|2026-09-30 10:14:40.719 15284] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-30 10:14:40.828 16992] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-30 10:14:40.828 16992] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-30 10:14:48.717 16992] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-30 10:14:48.720 16992] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 10:14:48.765 16992] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 10:14:48.812 16992] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 1, direction: false (0)
+[I|2026-09-30 10:14:50.123 16992] uid: 8e47f02f-6de2 | stop jogging
+[I|2026-09-30 10:14:50.173 16992] uid: 8e47f02f-6de2 | stop end (0)
+[I|2026-09-30 10:14:52.174 16992] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-30 10:14:52.175 16992] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 10:14:52.221 16992] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 10:14:52.273 16992] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 1, direction: true (0)
+[I|2026-09-30 10:14:54.949 16992] uid: 8e47f02f-6de2 | stop jogging
+[I|2026-09-30 10:14:55.000 16992] uid: 8e47f02f-6de2 | stop end (0)
+[I|2026-09-30 10:16:07.814 15284] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-30 10:16:07.833 16992] uid: 8e47f02f-6de2 | disconnectFromRobot end (0)
+[I|2026-09-30 10:24:06.488 20404] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-30 10:24:06.598 2528] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-30 10:24:06.598 2528] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-30 10:24:16.466 2528] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-30 10:24:16.469 2528] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 10:24:16.514 2528] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 10:24:16.562 2528] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 5, direction: true (0)
+[I|2026-09-30 10:24:18.182 2528] uid: 8e47f02f-6de2 | stop jogging
+[I|2026-09-30 10:24:18.225 2528] uid: 8e47f02f-6de2 | stop end (0)
+[I|2026-09-30 10:26:28.676 2528] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-30 10:26:28.678 2528] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 10:26:28.723 2528] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 10:26:28.775 2528] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 5, direction: false (0)
+[I|2026-09-30 10:26:31.769 2528] uid: 8e47f02f-6de2 | stop jogging
+[I|2026-09-30 10:26:31.822 2528] uid: 8e47f02f-6de2 | stop end (0)
+[I|2026-09-30 10:26:33.992 2528] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-30 10:26:33.993 2528] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 10:26:34.040 2528] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 10:26:34.087 2528] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 2, direction: false (0)
+[I|2026-09-30 10:26:34.804 2528] uid: 8e47f02f-6de2 | stop jogging
+[I|2026-09-30 10:26:34.845 2528] uid: 8e47f02f-6de2 | stop end (0)
+[I|2026-09-30 10:26:36.267 2528] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-30 10:26:36.268 2528] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 10:26:36.315 2528] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 10:26:36.358 2528] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 2, direction: true (0)
+[I|2026-09-30 10:26:55.775 2528] uid: 8e47f02f-6de2 | stop jogging
+[I|2026-09-30 10:26:55.827 2528] uid: 8e47f02f-6de2 | stop end (0)
+[I|2026-09-30 10:26:57.118 2528] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-30 10:26:57.120 2528] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 10:26:57.165 2528] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 10:26:57.213 2528] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 1, direction: false (0)
+[I|2026-09-30 10:26:57.795 2528] uid: 8e47f02f-6de2 | stop jogging
+[I|2026-09-30 10:26:57.851 2528] uid: 8e47f02f-6de2 | stop end (0)
+[I|2026-09-30 10:26:58.743 2528] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-30 10:26:58.743 2528] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 10:26:58.790 2528] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 10:26:58.837 2528] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 1, direction: true (0)
+[I|2026-09-30 10:27:12.583 2528] uid: 8e47f02f-6de2 | stop jogging
+[I|2026-09-30 10:27:12.635 2528] uid: 8e47f02f-6de2 | stop end (0)
+[I|2026-09-30 10:29:10.572 2528] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-30 10:29:10.574 2528] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 10:29:10.620 2528] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 10:29:10.668 2528] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 3, direction: true (0)
+[I|2026-09-30 10:29:11.365 2528] uid: 8e47f02f-6de2 | stop jogging
+[I|2026-09-30 10:29:11.422 2528] uid: 8e47f02f-6de2 | stop end (0)
+[I|2026-09-30 10:29:12.813 2528] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-30 10:29:12.814 2528] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 10:29:12.861 2528] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 10:29:12.908 2528] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 3, direction: false (0)
+[I|2026-09-30 10:29:13.733 2528] uid: 8e47f02f-6de2 | stop jogging
+[I|2026-09-30 10:29:13.787 2528] uid: 8e47f02f-6de2 | stop end (0)
+[I|2026-09-30 10:29:15.070 2528] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-30 10:29:15.071 2528] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 10:29:15.112 2528] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 10:29:15.158 2528] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 4, direction: true (0)
+[I|2026-09-30 10:29:16.049 2528] uid: 8e47f02f-6de2 | stop jogging
+[I|2026-09-30 10:29:16.091 2528] uid: 8e47f02f-6de2 | stop end (0)
+[I|2026-09-30 10:29:17.223 2528] uid: 8e47f02f-6de2 | setOperationMode end, switch to manual (0)
+[I|2026-09-30 10:29:17.224 2528] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 10:29:17.271 2528] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 10:29:17.313 2528] uid: 8e47f02f-6de2 | startJog end, space: jointSpace, rate: 10%, step: 100, index: 4, direction: false (0)
+[I|2026-09-30 10:29:18.877 2528] uid: 8e47f02f-6de2 | stop jogging
+[I|2026-09-30 10:29:18.925 2528] uid: 8e47f02f-6de2 | stop end (0)
+[I|2026-09-30 10:29:48.941 20404] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-30 10:29:48.950 2528] uid: 8e47f02f-6de2 | disconnectFromRobot end (0)
+[I|2026-09-30 10:43:40.462 22200] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-30 10:43:40.580 20864] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-30 10:43:40.580 20864] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-30 10:47:30.975 9992] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-30 10:47:31.077 8404] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-30 10:47:31.078 8404] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-30 10:51:13.859 13056] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-30 10:51:13.980 9868] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-30 10:51:13.980 9868] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-30 10:51:51.896 9868] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 10:51:51.899 9868] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 10:51:52.117 9868] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 10:51:52.126 9868] uid: 8e47f02f-6de2 | Process posture trans:[0.18, 0.312, 0.881], rpy:[-2.844886680750757, 0.4886921905584123, -1.1519173063162575] , s:100, z:-1, js:-1
+[I|2026-09-30 10:51:52.126 9868] uid: 8e47f02f-6de2 | Append cmd l#0
+[I|2026-09-30 10:51:52.187 9868] uid: 8e47f02f-6de2 | moveStart end (0)
+[I|2026-09-30 10:51:52.545 7400] uid: 8e47f02f-6de2 | Notified l#0 [0] finish:true (0)
+[I|2026-09-30 10:52:21.676 9868] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 10:52:21.678 9868] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 10:52:21.724 9868] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 10:52:21.724 9868] uid: 8e47f02f-6de2 | Process posture trans:[0.18, 0.312, 0.87], rpy:[-2.844886680750757, 0.4886921905584123, -1.1519173063162575] , s:100, z:-1, js:-1
+[I|2026-09-30 10:52:21.724 9868] uid: 8e47f02f-6de2 | Append cmd l#1
+[I|2026-09-30 10:52:21.772 9868] uid: 8e47f02f-6de2 | moveStart end (0)
+[I|2026-09-30 10:52:22.609 7400] uid: 8e47f02f-6de2 | Notified l#1 [0] finish:true (0)
+[I|2026-09-30 10:54:12.518 9868] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 10:54:12.520 9868] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 10:54:12.565 9868] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 10:54:12.566 9868] uid: 8e47f02f-6de2 | Process posture trans:[0.18, 0.3, 0.87], rpy:[-2.844886680750757, 0.4886921905584123, -1.1519173063162575] , s:100, z:-1, js:-1
+[I|2026-09-30 10:54:12.566 9868] uid: 8e47f02f-6de2 | Append cmd l#2
+[I|2026-09-30 10:54:12.613 9868] uid: 8e47f02f-6de2 | moveStart end (0)
+[I|2026-09-30 10:54:13.477 7400] uid: 8e47f02f-6de2 | Notified l#2 [0] finish:true (0)
+[I|2026-09-30 10:54:25.769 9868] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 10:54:25.770 9868] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 10:54:25.817 9868] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 10:54:25.817 9868] uid: 8e47f02f-6de2 | Process posture trans:[0.18, 0.3, 0.8], rpy:[-2.844886680750757, 0.4886921905584123, -1.1519173063162575] , s:100, z:-1, js:-1
+[I|2026-09-30 10:54:25.817 9868] uid: 8e47f02f-6de2 | Append cmd l#3
+[I|2026-09-30 10:54:25.864 9868] uid: 8e47f02f-6de2 | moveStart end (0)
+[I|2026-09-30 10:54:28.525 7400] uid: 8e47f02f-6de2 | Notified l#3 [0] finish:true (0)
+[I|2026-09-30 10:55:05.731 13056] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-30 10:55:05.755 9868] uid: 8e47f02f-6de2 | disconnectFromRobot end (0)
+[I|2026-09-30 11:10:33.364 15816] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-30 11:10:33.469 7884] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-30 11:10:33.469 7884] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-30 11:10:36.161 7884] uid: 8e47f02f-6de2 | enableDrag end, rt:false (0)
+[I|2026-09-30 11:10:37.901 7884] uid: 8e47f02f-6de2 | disableDrag end, rt:false (0)
+[I|2026-09-30 11:10:43.845 15816] uid: 8e47f02f-6de2 | xService 192.168.0.160:6666 disconnect
+[I|2026-09-30 11:10:43.866 7884] uid: 8e47f02f-6de2 | disconnectFromRobot end (0)
+[I|2026-09-30 11:13:09.905 19972] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-30 11:13:10.024 6704] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-30 11:13:10.024 6704] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-30 11:15:37.436 1416] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-30 11:15:37.539 9760] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-30 11:15:37.539 9760] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-30 11:20:14.284 6704] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-30 11:20:14.398 21016] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-30 11:20:14.398 21016] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-30 11:20:17.811 21016] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 11:20:17.813 21016] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 11:20:18.029 21016] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 11:20:18.038 21016] uid: 8e47f02f-6de2 | Process posture trans:[0.175, 0.3, 0.85], rpy:[-2.844886680750757, 0.4886921905584123, -1.1519173063162575] , s:100, z:-1, js:-1
+[I|2026-09-30 11:20:18.038 21016] uid: 8e47f02f-6de2 | Append cmd l#0
+[I|2026-09-30 11:20:18.087 21016] uid: 8e47f02f-6de2 | moveStart end (0)
+[I|2026-09-30 11:20:20.162 19980] uid: 8e47f02f-6de2 | Notified l#0 [0] finish:true (0)
+[I|2026-09-30 11:23:33.464 11744] uid: default_uid | xService 192.168.0.160:6666 connect
+[I|2026-09-30 11:23:33.576 13796] uid: 8e47f02f-6de2 | re-watch event: moveExecution 
+[I|2026-09-30 11:23:33.576 13796] uid: 8e47f02f-6de2 | Connect to 192.168.0.160 from 
+[I|2026-09-30 11:24:03.762 13796] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 11:24:03.764 13796] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 11:24:03.810 13796] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 11:24:03.818 13796] uid: 8e47f02f-6de2 | Process posture trans:[0.17, 0.3, 0.85], rpy:[-2.844886680750757, 0.4886921905584123, -1.1519173063162575] , s:100, z:-1, js:-1
+[I|2026-09-30 11:24:03.818 13796] uid: 8e47f02f-6de2 | Append cmd j#0
+[I|2026-09-30 11:24:03.874 13796] uid: 8e47f02f-6de2 | moveStart end (0)
+[I|2026-09-30 11:24:04.523 2256] uid: 8e47f02f-6de2 | Notified j#0 [0] finish:true (0)
+[I|2026-09-30 11:24:21.404 13796] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 11:24:21.405 13796] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 11:24:21.451 13796] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 11:24:21.451 13796] uid: 8e47f02f-6de2 | Process posture trans:[0.15, 0.3, 0.85], rpy:[-2.844886680750757, 0.4886921905584123, -1.1519173063162575] , s:100, z:-1, js:-1
+[I|2026-09-30 11:24:21.451 13796] uid: 8e47f02f-6de2 | Append cmd j#1
+[I|2026-09-30 11:24:21.499 13796] uid: 8e47f02f-6de2 | moveStart end (0)
+[I|2026-09-30 11:24:22.684 2256] uid: 8e47f02f-6de2 | Notified j#1 [0] finish:true (0)
+[I|2026-09-30 11:24:33.980 13796] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 11:24:33.981 13796] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 11:24:34.034 13796] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 11:24:34.038 13796] uid: 8e47f02f-6de2 | Process posture trans:[0.17, 0.3, 0.85], rpy:[-2.844886680750757, 0.4886921905584123, -1.1519173063162575] , s:100, z:-1, js:-1
+[I|2026-09-30 11:24:34.038 13796] uid: 8e47f02f-6de2 | Append cmd l#2
+[I|2026-09-30 11:24:34.098 13796] uid: 8e47f02f-6de2 | moveStart end (0)
+[I|2026-09-30 11:24:35.205 2256] uid: 8e47f02f-6de2 | Notified l#2 [0] finish:true (0)
+[I|2026-09-30 11:24:45.959 13796] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 11:24:45.961 13796] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 11:24:46.007 13796] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 11:24:46.007 13796] uid: 8e47f02f-6de2 | Process posture trans:[0.17, 0.3, 0.7], rpy:[-2.844886680750757, 0.4886921905584123, -1.1519173063162575] , s:100, z:-1, js:-1
+[I|2026-09-30 11:24:46.007 13796] uid: 8e47f02f-6de2 | Append cmd l#3
+[I|2026-09-30 11:24:46.054 13796] uid: 8e47f02f-6de2 | moveStart end (0)
+[I|2026-09-30 11:24:51.069 2256] uid: 8e47f02f-6de2 | Notified l#3 [0] finish:true (0)
+[I|2026-09-30 11:25:00.544 13796] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 11:25:00.546 13796] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 11:25:00.592 13796] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 11:25:00.592 13796] uid: 8e47f02f-6de2 | Process posture trans:[0.17, 0.3, 0.85], rpy:[-2.844886680750757, 0.4886921905584123, -1.1519173063162575] , s:100, z:-1, js:-1
+[I|2026-09-30 11:25:00.593 13796] uid: 8e47f02f-6de2 | Append cmd l#4
+[I|2026-09-30 11:25:00.638 13796] uid: 8e47f02f-6de2 | moveStart end (0)
+[I|2026-09-30 11:25:05.656 2256] uid: 8e47f02f-6de2 | Notified l#4 [0] finish:true (0)
+[I|2026-09-30 11:25:18.331 13796] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 11:25:18.333 13796] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 11:25:18.379 13796] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 11:25:18.379 13796] uid: 8e47f02f-6de2 | Process posture trans:[0.17, 0.3, 0.7], rpy:[-2.844886680750757, 0.4886921905584123, -1.1519173063162575] , s:100, z:-1, js:-1
+[I|2026-09-30 11:25:18.379 13796] uid: 8e47f02f-6de2 | Append cmd j#5
+[I|2026-09-30 11:25:18.427 13796] uid: 8e47f02f-6de2 | moveStart end (0)
+[I|2026-09-30 11:25:23.633 2256] uid: 8e47f02f-6de2 | Notified j#5 [0] finish:true (0)
+[I|2026-09-30 11:25:42.930 13796] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 11:25:42.931 13796] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 11:25:42.989 13796] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 11:25:42.989 13796] uid: 8e47f02f-6de2 | Process posture trans:[0.17, 0.15, 0.7], rpy:[-2.844886680750757, 0.4886921905584123, -1.1519173063162575] , s:100, z:-1, js:-1
+[I|2026-09-30 11:25:42.989 13796] uid: 8e47f02f-6de2 | Append cmd j#6
+[I|2026-09-30 11:25:43.037 13796] uid: 8e47f02f-6de2 | moveStart end (0)
+[I|2026-09-30 11:25:47.937 2256] uid: 8e47f02f-6de2 | Notified j#6 [0] finish:true (0)
+[I|2026-09-30 11:26:07.840 13796] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 11:26:07.842 13796] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 11:26:07.888 13796] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 11:26:07.888 13796] uid: 8e47f02f-6de2 | Process posture trans:[0.17, 0.3, 0.7], rpy:[-2.844886680750757, 0.4886921905584123, -1.1519173063162575] , s:100, z:-1, js:-1
+[I|2026-09-30 11:26:07.888 13796] uid: 8e47f02f-6de2 | Append cmd l#7
+[I|2026-09-30 11:26:07.935 13796] uid: 8e47f02f-6de2 | moveStart end (0)
+[I|2026-09-30 11:26:12.955 2256] uid: 8e47f02f-6de2 | Notified l#7 [0] finish:true (0)
+[I|2026-09-30 11:26:29.058 13796] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 11:26:29.059 13796] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 11:26:29.107 13796] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 11:26:29.107 13796] uid: 8e47f02f-6de2 | Process posture trans:[0.17, 0.3, 0.85], rpy:[-2.844886680750757, 0.4886921905584123, -1.1519173063162575] , s:100, z:-1, js:-1
+[I|2026-09-30 11:26:29.107 13796] uid: 8e47f02f-6de2 | Append cmd l#8
+[I|2026-09-30 11:26:29.155 13796] uid: 8e47f02f-6de2 | moveStart end (0)
+[I|2026-09-30 11:26:34.170 2256] uid: 8e47f02f-6de2 | Notified l#8 [0] finish:true (0)
+[I|2026-09-30 11:27:12.427 13796] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 11:27:12.429 13796] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 11:27:12.475 13796] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 11:27:12.475 13796] uid: 8e47f02f-6de2 | Process posture trans:[0.17, 0.15, 0.7], rpy:[-2.844886680750757, 0.4886921905584123, -1.1519173063162575] , s:100, z:-1, js:-1
+[I|2026-09-30 11:27:12.475 13796] uid: 8e47f02f-6de2 | Append cmd l#9
+[I|2026-09-30 11:27:12.528 13796] uid: 8e47f02f-6de2 | moveStart end (0)
+[I|2026-09-30 11:27:19.371 2256] uid: 8e47f02f-6de2 | Notified l#9 [0] finish:true (0)
+[I|2026-09-30 11:27:38.422 13796] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 11:27:38.424 13796] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 11:27:38.470 13796] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 11:27:38.470 13796] uid: 8e47f02f-6de2 | Process posture trans:[0.17, 0.3, 0.85], rpy:[-2.844886680750757, 0.4886921905584123, -1.1519173063162575] , s:100, z:-1, js:-1
+[I|2026-09-30 11:27:38.470 13796] uid: 8e47f02f-6de2 | Append cmd l#10
+[I|2026-09-30 11:27:38.518 13796] uid: 8e47f02f-6de2 | moveStart end (0)
+[I|2026-09-30 11:27:45.368 2256] uid: 8e47f02f-6de2 | Notified l#10 [0] finish:true (0)
+[I|2026-09-30 11:28:05.897 13796] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 11:28:05.899 13796] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 11:28:05.944 13796] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 11:28:05.944 13796] uid: 8e47f02f-6de2 | Process posture trans:[0.17, 0.15, 0.7], rpy:[-2.844886680750757, 0.4886921905584123, -1.1519173063162575] , s:100, z:-1, js:-1
+[I|2026-09-30 11:28:05.944 13796] uid: 8e47f02f-6de2 | Append cmd j#11
+[I|2026-09-30 11:28:05.991 13796] uid: 8e47f02f-6de2 | moveStart end (0)
+[I|2026-09-30 11:28:12.797 2256] uid: 8e47f02f-6de2 | Notified j#11 [0] finish:true (0)
+[I|2026-09-30 11:28:32.618 13796] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 11:28:32.619 13796] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 11:28:32.664 13796] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 11:28:32.664 13796] uid: 8e47f02f-6de2 | Process posture trans:[0.17, 0.15, 0.7], rpy:[-2.844886680750757, 0.4886921905584123, 0] , s:100, z:-1, js:-1
+[I|2026-09-30 11:28:32.665 13796] uid: 8e47f02f-6de2 | Append cmd j#12
+[I|2026-09-30 11:28:32.713 13796] uid: 8e47f02f-6de2 | moveStart end (0)
+[I|2026-09-30 11:28:45.209 2256] uid: 8e47f02f-6de2 | Notified j#12 [0] finish:true (0)
+[I|2026-09-30 11:28:54.790 13796] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 11:28:54.792 13796] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 11:28:54.837 13796] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 11:28:54.837 13796] uid: 8e47f02f-6de2 | Process posture trans:[0.17, 0.15, 0.7], rpy:[-2.844886680750757, 0.4886921905584123, -1.1519173063162575] , s:100, z:-1, js:-1
+[I|2026-09-30 11:28:54.837 13796] uid: 8e47f02f-6de2 | Append cmd l#13
+[I|2026-09-30 11:28:54.885 13796] uid: 8e47f02f-6de2 | moveStart end (0)
+[I|2026-09-30 11:28:56.491 2256] uid: 8e47f02f-6de2 | Notified l#13 [0] finish:true (0)
+[I|2026-09-30 11:29:13.003 13796] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 11:29:13.005 13796] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 11:29:13.051 13796] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 11:29:13.051 13796] uid: 8e47f02f-6de2 | Process posture trans:[0.17, 0.15, 0.7], rpy:[-2.844886680750757, 0.4886921905584123, 0] , s:100, z:-1, js:-1
+[I|2026-09-30 11:29:13.051 13796] uid: 8e47f02f-6de2 | Append cmd l#14
+[I|2026-09-30 11:29:13.099 13796] uid: 8e47f02f-6de2 | moveStart end (0)
+[I|2026-09-30 11:29:14.707 2256] uid: 8e47f02f-6de2 | Notified l#14 [0] finish:true (0)
+[I|2026-09-30 11:29:24.538 13796] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 11:29:24.539 13796] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 11:29:24.585 13796] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 11:29:24.585 13796] uid: 8e47f02f-6de2 | Process posture trans:[0.17, 0.15, 0.7], rpy:[-2.844886680750757, 0.4886921905584123, -1.1519173063162575] , s:100, z:-1, js:-1
+[I|2026-09-30 11:29:24.585 13796] uid: 8e47f02f-6de2 | Append cmd l#15
+[I|2026-09-30 11:29:24.632 13796] uid: 8e47f02f-6de2 | moveStart end (0)
+[I|2026-09-30 11:29:26.238 2256] uid: 8e47f02f-6de2 | Notified l#15 [0] finish:true (0)
+[I|2026-09-30 11:29:35.246 13796] uid: 8e47f02f-6de2 | setOperationMode end, switch to auto (0)
+[I|2026-09-30 11:29:35.248 13796] uid: 8e47f02f-6de2 | setMotionControlMode end, mode: NrtCommand (0)
+[I|2026-09-30 11:29:35.295 13796] uid: 8e47f02f-6de2 | setPowerState end, switch motor true (0)
+[I|2026-09-30 11:29:35.295 13796] uid: 8e47f02f-6de2 | Process posture trans:[0.17, 0.15, 0.7], rpy:[-2.844886680750757, 0.4886921905584123, 0] , s:100, z:-1, js:-1
+[I|2026-09-30 11:29:35.295 13796] uid: 8e47f02f-6de2 | Append cmd j#16
+[I|2026-09-30 11:29:35.343 13796] uid: 8e47f02f-6de2 | moveStart end (0)
+[I|2026-09-30 11:29:47.838 2256] uid: 8e47f02f-6de2 | Notified j#16 [0] finish:true (0)

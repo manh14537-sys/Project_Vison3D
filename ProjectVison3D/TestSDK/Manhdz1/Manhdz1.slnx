@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Manhdz1/Manhdz1.csproj" Id="793807b4-db6f-4d00-872f-ff0937e72492">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
